@@ -124,7 +124,8 @@ var LIVING_KEYS = [
   'XMLHttpRequestEventTarget',
   'XMLHttpRequestUpload',
   'DOMTokenList',
-  'URL'
+  'URL',
+  'URLSearchParams'
 ]
 
 var OTHER_KEYS = [
